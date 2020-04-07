@@ -1,0 +1,250 @@
+		/********************************************************************  
+
+I declare that my assignment is wholly my own work in accordance with Seneca Academic Policy. 
+No part of this assignment has been copied manually or electronically from any other source (including web sites)
+except for the information supplied by the WEB222 instructors and / or made available in this assignment for my use.  
+I also declare that no part of this assignment has been distributed to other students. 
+
+Name: Melvyn Reyes  Dated:  
+
+********************************************************************/  
+		.container{
+			width:960px;
+			margin:0 auto;
+		}
+		
+		header{
+			background-color: #ddd;
+			padding:5px 25px;
+		}
+		
+		nav{
+			padding:8px;
+			background-color: #444;
+		}
+		
+		nav ul{
+			list-style-type: none;
+			padding-left:20px;
+			margin:0px;
+		}
+		
+		nav ul li{
+			display:inline-block;
+			background-color: #444;
+		}
+		
+		nav ul li a{
+			background-color: #444;
+			color: #eee;
+			text-decoration: none;
+			padding:0 5px;	
+			font-weight:bold;
+			text-transform: uppercase;
+			font-size:13px;
+		}
+		
+		aside {
+			float: left;
+			width:190px;
+			margin-right:20px;
+		}
+		
+		aside a {
+			background-color:#e5e5e5;
+ 			 padding:8px;
+  			margin-top:7px;
+  			display:block;
+  			width:50%;
+  			color:black;
+		}
+		
+		.main{
+			float:left;
+			width: 550px;
+			padding-bottom:10px;
+			margin-right:20px;
+		}
+		
+		.ads{
+			float: left;
+			width:180px;
+		}
+		
+		footer{
+			clear:both;
+			background-color: #CDCDCD;
+			color: #eee;
+			padding:10px;
+			color: red;
+		}
+		
+		footer h2{
+			margin:0px;
+			text-transform: uppercase;
+			font-size:13px;
+			padding:0 5px;	
+		}
+
+	@media only screen and (max-width:620px) {
+  			/* For mobile phones: */
+  			.menu, .main, .right, aside, .ads, .container{
+    			width:100%;
+ 		 }
+		  }
+	
+
+		#toilet1 {
+			border-style: double;
+			
+		}
+
+		#toilet1 img {
+			height: 100px;
+			width: 100px;
+			float: left;
+			overflow: auto;
+		}
+
+		#toilet1 li{
+			overflow: auto;
+		}
+
+		#toilet2 {
+			border-style: double;
+		}
+
+		#toilet2 img {
+			height: 125px;
+			width: 125px;
+			float: right;
+		}
+		
+		#toilet2 li{
+			overflow: auto;
+		}
+
+		#toilet3{
+			border-style: double;
+		}
+
+		#toilet3 img {
+			height: 100px;
+			width: 100px;
+			float: left;
+			overflow: auto;
+		}
+
+		#toilet3 li {
+			overflow: auto;
+		}
+
+		#toilet4{
+			border-style: double;
+		}
+
+		#toilet4 img {
+			height: 100px;
+			width: 100px;
+			float: right;
+			overflow: auto;
+		}
+
+		#toilet4 li {
+			overflow: auto;
+		}
+
+		#toilet5{
+			border-style: double;
+		}
+
+		#toilet5 img {
+			height: 100px;
+			width: 100px;
+			float: left;
+			overflow: auto;
+		}
+
+		#toilet5 li {
+			overflow: auto;
+		}
+
+		#toilet6{
+			border-style: double;
+		}
+
+		#toilet6 img {
+			height: 100px;
+			width: 100px;
+			float: right;
+			overflow: auto;
+		}
+
+		#toilet6 li {
+			overflow: auto;
+		}
+
+		#toilet7{
+			border-style: double;
+		}
+
+		#toilet7 img {
+			height: 100px;
+			width: 100px;
+			float: left;
+			overflow: auto;
+		}
+
+		#toilet7 li {
+			overflow: auto;
+		}
+
+		#toilet8{
+			border-style: double;
+		}
+
+		#toilet8 img {
+			height: 100px;
+			width: 100px;
+			float: right;
+			overflow: auto;
+		}
+
+		#toilet8 li {
+			overflow: auto;
+		}
+
+		#toilet9{
+			border-style: double;
+		}
+
+		#toilet9 img {
+			height: 100px;
+			width: 100px;
+			float: left;
+			overflow: auto;
+		}
+
+		#toilet9 li {
+			overflow: auto;
+		}
+
+		#toilet10{
+			border-style: double;
+		}
+
+		#toilet10 img {
+			height: 100px;
+			width: 100px;
+			float: right;
+			overflow: auto;
+		}
+
+		#toilet10 li {
+			overflow: auto;
+		}
+
+		img{
+			height: 125px;
+			width: 125px;
+		}
